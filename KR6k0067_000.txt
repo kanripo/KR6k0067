@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大愛道比丘尼經
+#+DATE: 2015-08-30 20:43:41.299984
+#+PROPERTY: JUAN 0
